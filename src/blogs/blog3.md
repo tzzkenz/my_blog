@@ -1,97 +1,21 @@
-# Terminal Tricks for Retro Computing Enthusiasts
+# A Teenage Dream
 
-**Date:** April 10, 2025
+**Date:** April 19, 2025
 
-Are you nostalgic for the days of command-line interfaces? Do you find modern GUIs too flashy and distracting? You're not alone! This post covers some of my favorite terminal tricks that can make your command-line experience both more productive and more enjoyable.
+“Picture perfect in a broken frame, that’s how it’ll be.“
 
-## ASCII Art Magic
+A verse that echoes as I scroll through my phone, the screen filled with blurry images of memories I swore I’d never forget. Back then, being a teenager meant chasing midnight car rides, dreaming up impossible plans, and never quite following through.
 
-Nothing says "retro computing" like good ASCII art. Here's a simple script to generate a banner:
+To think that all of it is over, and that all we can do is pretend, for the smallest of moments, that we are still teenagers and can do all the things we always wanted, is the dreary truth. To realize that these few years were the last flight with wings unburdened by the weight of the world, soaring freely through skies untouched by time, before responsibility clipped the edges of my dreams.
 
-```bash
-#!/bin/bash
-echo "
- ______     ______     ______   ______     ______
-/\  == \   /\  ___\   /\__  _\ /\  == \   /\  __ \
-\ \  __<   \ \  __\   \/_/\ \/ \ \  __<   \ \ \/\ \
- \ \_\ \_\  \ \_____\    \ \_\  \ \_\ \_\  \ \_____\
-  \/_/ /_/   \/_____/     \/_/   \/_/ /_/   \/_____/
-"
-```
+“You and me, we’re bumper cars, the more I try to get to you, the more we crash apart.“
 
-## Essential Terminal Shortcuts
+To feel those memories being lost to time is the kind of pain that breaks our wills. To feel the weight of the distance creeping in between us, is isolation at its worst. To see our teenage dreams crash and burn in its race against time has killed what little hope remained.
 
-Mastering these will make you feel like a hacker from the 90s:
+Time flies; we learned that the hard way. All those years ahead of us turned into days, and then into seconds. Our teenage years really did slip away in the blink of an eye—perhaps because they were never truly ours. But did we ever stop chasing that feeling of being carefree again?
 
-| Shortcut | Action                              |
-| -------- | ----------------------------------- |
-| `Ctrl+A` | Move cursor to beginning of line    |
-| `Ctrl+E` | Move cursor to end of line          |
-| `Ctrl+R` | Search command history              |
-| `Ctrl+L` | Clear screen                        |
-| `Ctrl+U` | Delete from cursor to start of line |
-| `Ctrl+K` | Delete from cursor to end of line   |
+“Sunsets are beautiful, aren’t they?“
 
-## Create a Retro Terminal Experience
+But that sunset was anything but beautiful. As the final seconds of freedom slipped away, I crossed into the threshold of adulthood—a line I’d drawn long before I was ready to face it. In that fleeting twilight, surrounded by familiar faces yet consumed by a profound loneliness, I realized there was no one left to anchor me, no hand to ease the fall. Just the slow rise of shadows, and the haunting echo of moments I let slip through my fingers, now lost to time like the sun sinking beneath the horizon.
 
-Want your terminal to feel like you're in 1985? Try this configuration:
-
-```bash
-# Add to your .bashrc or .zshrc
-export PS1="\[\033[32m\]\u@\h:\[\033[34m\]\w\[\033[00m\]\$ "
-export TERM=xterm-256color
-alias ls="ls --color=auto"
-alias dir="ls -la"
-alias cls="clear"
-```
-
-## Text-based Applications You Should Try
-
-1. **Lynx** - Web browsing in terminal
-2. **Nano** - Simple text editing
-3. **Htop** - System monitoring
-4. **Cmatrix** - Feel like you're in The Matrix
-5. **Figlet** - Create ASCII text banners
-
-> "The command line interface is the most powerful, flexible, and reliable way to interact with a computer." - Old Unix Manual
-
-## Fun with Cowsay
-
-Ever need a cow to deliver your system messages?
-
-```
- ________________
-< CPU overheating >
- ----------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-```
-
-Use this command to generate your own:
-
-```bash
-cowsay "Your message here"
-```
-
-## Easter Egg: The Star Wars ASCII Movie
-
-If you have telnet installed, try:
-
-```bash
-telnet towel.blinkenlights.nl
-```
-
-Sit back and enjoy Star Wars Episode IV rendered entirely in ASCII art!
-
-## Conclusion
-
-The terminal might seem intimidating at first, but once you master a few tricks, you'll find it's often faster and more powerful than using a GUI. Plus, there's an undeniable retro charm to controlling your computer entirely through text commands.
-
-**What are your favorite terminal commands?** Share in the comments!
-
----
-
-_This post was written entirely in Vim_
+And those blurry images stand as a sad testament to the end of a chapter—each pixel a whisper of laughter, a fleeting embrace, a dream unfulfilled. They remind me of who we were, and who we could have been, if only time hadn’t whisked us away so swiftly, leaving us to grapple with the remnants of our teenage, forever framed in a broken reality

@@ -1,81 +1,13 @@
-# Retro Web Design Principles
+# Meant to be?
 
 **Date:** April 15, 2025
 
-## Embracing the Past in Modern Web Development
+“More than hope, more than faith, this is true, this is fate.”
 
-The web has evolved tremendously since its early days, but there's growing appreciation for the aesthetic sensibilities of the early internet era. This post explores how we can incorporate these design principles in modern websites while maintaining accessibility and usability.
+As the lyrics of the song I love reverberate within me, my dream of singing these words with the one I love still remains out of reach. As the groups we left each other for fall apart, our song is what keeps me sane. As your face fades away from my mind, I see remnants of it in everyone, reminding me of times long gone.
 
-### Key Elements of Retro Web Design
+Maybe all we want is to live in our own world, far from reality. Maybe all we want is to sit beside each other and have a moment of silence, far from the noisy judgments of others. Maybe all we desire is each other at the end of worlds, all for ourselves.
 
-#### 1. Color Schemes
+Perhaps holding hands in that busy street, deafened by the voice of the city, opened our eyes. Perhaps that bowl of Ramen was what really mattered. Perhaps lying on the grass in the park, singing out loud, made us realize that we’ve been going after the perfect song without realizing that there was nothing more perfect than the playful rhymes we made up. Perhaps there’s still time to fix this mess that is only ours and go back to when the grass was greener. Perhaps, we are still meant to be.
 
-Early web design relied heavily on:
-
-- **Web-safe colors** (the famous 216 color palette)
-- **High contrast combinations** (often to a fault)
-- **Bold primary colors** rather than subtle gradients
-
-For example, this classic color palette:
-
-- `#000080` - Navy Blue (often used for backgrounds)
-- `#0000FF` - Blue (the default link color)
-- `#551A8B` - Purple (visited links)
-- `#FF0000` - Red (for emphasis and warnings)
-
-#### 2. Typography
-
-The classic fonts of the era:
-
-- Times New Roman (the default serif)
-- Arial (the default sans-serif)
-- Courier New (for code)
-- Comic Sans MS (the controversial favorite)
-
-```css
-body {
-  font-family: "MS Sans Serif", Arial, sans-serif;
-  font-size: 12px;
-  line-height: 1.2;
-}
-```
-
-#### 3. Interface Elements
-
-Early UI components had distinctive characteristics:
-
-- **Beveled edges** creating a 3D effect
-- **Drop shadows** that were obvious rather than subtle
-- **Pixel-perfect borders** rather than smooth gradients
-- **Button states** that physically appeared to depress when clicked
-
-> "The skeuomorphic design of early GUI systems wasn't just an aesthetic choice—it was necessary to help users understand how digital interfaces worked by mimicking physical objects." - Digital Design History, 2023
-
-## Examples in Practice
-
-Here's how a form might look using retro design principles:
-
-![Retro form design](/api/placeholder/350/200)
-
-## When to Use Retro Design
-
-Consider retro design for:
-
-1. Games and entertainment websites
-2. Nostalgia-focused brands
-3. Archive or history-focused projects
-4. Creative portfolios wanting to stand out
-
-## Accessibility Considerations
-
-While embracing retro aesthetics, we must remember:
-
-- Maintain sufficient color contrast
-- Ensure text remains readable
-- Support keyboard navigation
-- Provide alternative text for images
-- Test with screen readers
-
----
-
-What retro design elements do you miss from the early web? Leave a comment below!
+And someday, we could dance to the words “more than hope, more than faith, this is true, this fate,” like we always wanted to. Someday we can scream our love out loud from the rooftops like we always talked about. But maybe it’s never meant to be.

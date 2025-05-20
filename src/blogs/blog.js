@@ -10,15 +10,15 @@ const blogs = [
     filepath: blog1,
   },
   {
-    id: "retro-web-design",
-    blogname: "Retro Web Design Principles",
+    id: "meant-to-be",
+    blogname: "Meant to be?",
     date: "April 15, 2025",
     filepath: blog2,
   },
   {
-    id: "terminal-tricks",
-    blogname: "Terminal Tricks for Retro Computing Enthusiasts",
-    date: "April 10, 2025",
+    id: "teenage-dream",
+    blogname: "A Teenage Dream",
+    date: "April 19, 2025",
     filepath: blog3,
   },
 ];

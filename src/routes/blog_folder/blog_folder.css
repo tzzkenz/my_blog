@@ -1,0 +1,31 @@
+.window-body {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 5 equal-width columns */
+  gap: 10px;
+  padding: 0;
+  margin: 10px 0 0 0;
+}
+
+.blog-entry {
+  all: unset;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.blog-icon {
+  width: 40px;
+  height: 40px;
+}
+
+.blog-entry-selected {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  padding: 4px;
+  background-color: #000080; /* dark blue selection like Win98 */
+  color: white;
+}

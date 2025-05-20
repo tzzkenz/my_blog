@@ -1,0 +1,59 @@
+@font-face {
+  font-family: "Win98Font";
+  src: url("/fonts/win98.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+  font-family: "Win98Font", sans-serif;
+  color: black;
+  box-sizing: border-box;
+  background-color: #000; /* Classic gray */
+}
+
+.desktop {
+  position: relative;
+
+  width: 1024px;
+  height: 698px;
+  background-color: #008080; /* Classic teal */
+}
+
+.bottom-bar {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 30px;
+  background-color: #c3c3c3;
+  text-align: center;
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  padding: 0 4px;
+  border-top: 2.5px solid #f0f0f0;
+  justify-content: space-between;
+}
+
+.bottom-bar button {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 5%;
+  padding: 0;
+  min-width: 2px;
+  font-weight: 900;
+  color: black;
+}
+
+.bottom-bar fieldset {
+  padding: 5px 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
